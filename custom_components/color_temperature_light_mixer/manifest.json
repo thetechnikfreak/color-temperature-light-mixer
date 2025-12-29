@@ -3,14 +3,14 @@
     "name": "Color Temperature Light Mixer",
     "after_dependencies": ["light", "sensor"],
     "codeowners": [
-        "@mion00"
+        "@vdye"
     ],
     "config_flow": true,
     "dependencies": [],
-    "documentation": "https://github.com/mion00/color-temperature-light-mixer",
+    "documentation": "https://github.com/vdye/color-temperature-light-mixer",
     "integration_type": "service",
     "iot_class": "calculated",
-    "issue_tracker": "https://github.com/mion00/color-temperature-light-mixer/issues",
+    "issue_tracker": "https://github.com/vdye/color-temperature-light-mixer/issues",
     "requirements": [],
     "version": "0.1.2"
 }

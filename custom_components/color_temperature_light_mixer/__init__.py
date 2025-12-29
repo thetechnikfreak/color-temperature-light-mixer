@@ -1,7 +1,7 @@
 """Light temperature mixer used to mix two lights of different temperature a single light group within Home Assistant.
 
 For more details about this integration, please refer to
-https://github.com/mion00/cct-virtual-light
+https://github.com/vdye/color-temperature-light-mixer
 """
 
 from __future__ import annotations

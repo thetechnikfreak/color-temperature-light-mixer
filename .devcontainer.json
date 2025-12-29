@@ -1,5 +1,5 @@
 {
-    "name": "mion00/cct_light_merger",
+    "name": "vdye/color-temperature-light-mixer",
     "image": "mcr.microsoft.com/devcontainers/python:1-3.12",
     "postCreateCommand": "scripts/setup",
     "forwardPorts": [

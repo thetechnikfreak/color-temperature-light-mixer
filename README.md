@@ -1,11 +1,11 @@
 <p align="center">
-    <img alt="logo" src="https://github.com/mion00/color-temperature-light-mixer/blob/main/docs/logo_dark.png?raw=true#gh-dark-mode-only" width="500"/>
-    <img alt="logo" src="https://github.com/mion00/color-temperature-light-mixer/blob/main/docs/logo.png?raw=true#gh-light-mode-only" width="500"/><br/>
-    <a href="https://github.com/mion00/color-temperature-light-mixer/releases"><img src="https://img.shields.io/github/release/mion00/color-temperature-light-mixer.svg?style=flat-square"></a>
-    <a href="https://raw.githubusercontent.com/mion00/color-temperature-light-mixer/main/LICENSE"><img src="https://img.shields.io/github/license/mion00/color-temperature-light-mixer"></a>
-    <img src="https://img.shields.io/github/commit-activity/y/mion00/color-temperature-light-mixer.svg?style=flat-square">
+    <img alt="logo" src="https://github.com/vdye/color-temperature-light-mixer/blob/main/docs/logo_dark.png?raw=true#gh-dark-mode-only" width="500"/>
+    <img alt="logo" src="https://github.com/vdye/color-temperature-light-mixer/blob/main/docs/logo.png?raw=true#gh-light-mode-only" width="500"/><br/>
+    <a href="https://github.com/vdye/color-temperature-light-mixer/releases"><img src="https://img.shields.io/github/release/vdye/color-temperature-light-mixer.svg?style=flat-square"></a>
+    <a href="https://raw.githubusercontent.com/vdye/color-temperature-light-mixer/main/LICENSE"><img src="https://img.shields.io/github/license/vdye/color-temperature-light-mixer"></a>
+    <img src="https://img.shields.io/github/commit-activity/y/vdye/color-temperature-light-mixer.svg?style=flat-square">
     <a href="https://hacs.xyz"><img src="https://img.shields.io/badge/HACS-Custom-orange.svg?style=flat-square"></a>
-    <a href="https://github.com/mion00"><img src="https://img.shields.io/badge/maintainer-mion00-blue.svg?style=flat-square"></a>
+    <a href="https://github.com/vdye"><img src="https://img.shields.io/badge/maintainer-vdye-blue.svg?style=flat-square"></a>
     <a href="https://community.home-assistant.io/"><img src="https://img.shields.io/badge/community-forum-brightgreen.svg?style=flat-square"></a>
 </p>
 
@@ -18,7 +18,7 @@ Useful for instance with LED strips having separate cold white/warm white channe
 An example application is a "dumb"/analog LED strip controlled by a Shelly RGBW2 (configured in _4 white channels_ mode), where the cold light and warm light channels are each connected to a separate channel in the Shelly.
 
 <p align="center">
-    <img src="https://github.com/mion00/color-temperature-light-mixer/blob/main/docs/cct_light_integration_demo.gif?raw=true"/>
+    <img src="https://github.com/vdye/color-temperature-light-mixer/blob/main/docs/cct_light_integration_demo.gif?raw=true"/>
 </p>
 
 ---
@@ -160,10 +160,10 @@ The original inspiration came from the template light provided by [gfrancesco](h
 This Home Assistant custom component was created and is updated using the [HA-Blueprint template](https://github.com/Limych/ha-blueprint). You can use this template to maintain your own Home Assistant custom components.
 
 [hacs]: https://hacs.xyz
-[hacs-repository]: https://my.home-assistant.io/redirect/hacs_repository/?owner=mion00&repository=color-temperature-light-mixer&category=integration
+[hacs-repository]: https://my.home-assistant.io/redirect/hacs_repository/?owner=vdye&repository=color-temperature-light-mixer&category=integration
 [ha-docs-diagnostics]: https://www.home-assistant.io/docs/configuration/troubleshooting/#debug-logs-and-diagnostics
 [integration-page]: https://my.home-assistant.io/redirect/integration/?domain=color_temperature_light_mixer
-[releases-latest]: https://github.com/mion00/color-temperature-light-mixer/releases/latest
-[report_bug]: https://github.com/mion00/color-temperature-light-mixer/issues/new?template=bug_report.md
-[suggest_idea]: https://github.com/mion00/color-temperature-light-mixer/issues/new?template=feature_request.md
-[contributors]: https://github.com/mion00/color-temperature-light-mixer/graphs/contributors
+[releases-latest]: https://github.com/vdye/color-temperature-light-mixer/releases/latest
+[report_bug]: https://github.com/vdye/color-temperature-light-mixer/issues/new?template=bug_report.md
+[suggest_idea]: https://github.com/vdye/color-temperature-light-mixer/issues/new?template=feature_request.md
+[contributors]: https://github.com/vdye/color-temperature-light-mixer/graphs/contributors
